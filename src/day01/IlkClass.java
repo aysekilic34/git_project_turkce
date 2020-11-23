@@ -9,6 +9,7 @@ public class IlkClass {
 		System.out.println("nihal selamlar");
 		System.out.println("feature branch deneme");
 		System.out.println("govdeye ekleme yaptýk");
+		System.out.println("1.12 feature yeni");
 	}
 
 }
