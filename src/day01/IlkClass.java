@@ -7,6 +7,7 @@ public class IlkClass {
         System.out.println("fatma selamlar");
 		System.out.println("ali selamlar");
 		System.out.println("nihal selamlar");
+		System.out.println("feature branch deneme");
 	}
 
 }
